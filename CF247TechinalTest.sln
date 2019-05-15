@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CF247TechinalTest", "CF247TechinalTest\CF247TechinalTest.csproj", "{1BB2EB33-2F42-4FA1-9359-FCFB37AE7256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTesting", "NUnitTesting\NUnitTesting.csproj", "{78424EBB-25D2-4BB5-8E0B-7AA777AB0506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB2EB33-2F42-4FA1-9359-FCFB37AE7256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB2EB33-2F42-4FA1-9359-FCFB37AE7256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB2EB33-2F42-4FA1-9359-FCFB37AE7256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB2EB33-2F42-4FA1-9359-FCFB37AE7256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78424EBB-25D2-4BB5-8E0B-7AA777AB0506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78424EBB-25D2-4BB5-8E0B-7AA777AB0506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78424EBB-25D2-4BB5-8E0B-7AA777AB0506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78424EBB-25D2-4BB5-8E0B-7AA777AB0506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
